@@ -28,7 +28,7 @@ namespace ApiTest
 
         private void Convert_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello");
+            MessageBox.Show("Hello World");
         }
     }
 }
